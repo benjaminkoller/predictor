@@ -1,381 +1,381 @@
-Match Number,Round Number,Date,Location,Home Team,Away Team,Result
-1,1,16/08/2024 20:00,Old Trafford,Man Utd,Fulham,1 - 0
-2,1,17/08/2024 12:30,Portman Road,Ipswich,Liverpool,0 - 2
-3,1,17/08/2024 15:00,Emirates Stadium,Arsenal,Wolves,2 - 0
-4,1,17/08/2024 15:00,Goodison Park,Everton,Brighton,0 - 3
-5,1,17/08/2024 15:00,St. James' Park,Newcastle,Southampton,1 - 0
-6,1,17/08/2024 15:00,The City Ground,Nott'm Forest,Bournemouth,1 - 1
-7,1,17/08/2024 17:30,London Stadium,West Ham,Aston Villa,1 - 2
-8,1,18/08/2024 14:00,Gtech Community Stadium,Brentford,Crystal Palace,2 - 1
-9,1,18/08/2024 16:30,Stamford Bridge,Chelsea,Man City,0 - 2
-10,1,19/08/2024 20:00,King Power Stadium,Leicester,Spurs,1 - 1
-13,2,24/08/2024 12:30,American Express Stadium,Brighton,Man Utd,2 - 1
-14,2,24/08/2024 15:00,Selhurst Park,Crystal Palace,West Ham,0 - 2
-15,2,24/08/2024 15:00,Craven Cottage,Fulham,Leicester,2 - 1
-17,2,24/08/2024 15:00,Etihad Stadium,Man City,Ipswich,4 - 1
-18,2,24/08/2024 15:00,St. Mary's Stadium,Southampton,Nott'm Forest,0 - 1
-19,2,24/08/2024 15:00,Tottenham Hotspur Stadium,Spurs,Everton,4 - 0
-11,2,24/08/2024 17:30,Villa Park,Aston Villa,Arsenal,0 - 2
-12,2,25/08/2024 14:00,Vitality Stadium,Bournemouth,Newcastle,1 - 1
-20,2,25/08/2024 14:00,Molineux Stadium,Wolves,Chelsea,2 - 6
-16,2,25/08/2024 16:30,Anfield,Liverpool,Brentford,2 - 0
-21,3,31/08/2024 12:30,Emirates Stadium,Arsenal,Brighton,1 - 1
-22,3,31/08/2024 15:00,Gtech Community Stadium,Brentford,Southampton,3 - 1
-24,3,31/08/2024 15:00,Goodison Park,Everton,Bournemouth,2 - 3
-25,3,31/08/2024 15:00,Portman Road,Ipswich,Fulham,1 - 1
-26,3,31/08/2024 15:00,King Power Stadium,Leicester,Aston Villa,1 - 2
-29,3,31/08/2024 15:00,The City Ground,Nott'm Forest,Wolves,1 - 1
-30,3,31/08/2024 17:30,London Stadium,West Ham,Man City,1 - 3
-23,3,01/09/2024 13:30,Stamford Bridge,Chelsea,Crystal Palace,1 - 1
-28,3,01/09/2024 13:30,St. James' Park,Newcastle,Spurs,2 - 1
-27,3,01/09/2024 16:00,Old Trafford,Man Utd,Liverpool,0 - 3
-38,4,14/09/2024 12:30,St. Mary's Stadium,Southampton,Man Utd,0 - 3
-33,4,14/09/2024 15:00,American Express Stadium,Brighton,Ipswich,0 - 0
-34,4,14/09/2024 15:00,Selhurst Park,Crystal Palace,Leicester,2 - 2
-35,4,14/09/2024 15:00,Craven Cottage,Fulham,West Ham,1 - 1
-36,4,14/09/2024 15:00,Anfield,Liverpool,Nott'm Forest,0 - 1
-37,4,14/09/2024 15:00,Etihad Stadium,Man City,Brentford,2 - 1
-31,4,14/09/2024 17:30,Villa Park,Aston Villa,Everton,3 - 2
-32,4,14/09/2024 20:00,Vitality Stadium,Bournemouth,Chelsea,0 - 1
-39,4,15/09/2024 14:00,Tottenham Hotspur Stadium,Spurs,Arsenal,0 - 1
-40,4,15/09/2024 16:30,Molineux Stadium,Wolves,Newcastle,1 - 2
-50,5,21/09/2024 12:30,London Stadium,West Ham,Chelsea,0 - 3
-41,5,21/09/2024 15:00,Villa Park,Aston Villa,Wolves,3 - 1
-44,5,21/09/2024 15:00,Craven Cottage,Fulham,Newcastle,3 - 1
-45,5,21/09/2024 15:00,King Power Stadium,Leicester,Everton,1 - 1
-46,5,21/09/2024 15:00,Anfield,Liverpool,Bournemouth,3 - 0
-48,5,21/09/2024 15:00,St. Mary's Stadium,Southampton,Ipswich,1 - 1
-49,5,21/09/2024 15:00,Tottenham Hotspur Stadium,Spurs,Brentford,3 - 1
-43,5,21/09/2024 17:30,Selhurst Park,Crystal Palace,Man Utd,0 - 0
-42,5,22/09/2024 14:00,American Express Stadium,Brighton,Nott'm Forest,2 - 2
-47,5,22/09/2024 16:30,Etihad Stadium,Man City,Arsenal,2 - 2
-58,6,28/09/2024 12:30,St. James' Park,Newcastle,Man City,1 - 1
-51,6,28/09/2024 15:00,Emirates Stadium,Arsenal,Leicester,4 - 2
-53,6,28/09/2024 15:00,Gtech Community Stadium,Brentford,West Ham,1 - 1
-54,6,28/09/2024 15:00,Stamford Bridge,Chelsea,Brighton,4 - 2
-55,6,28/09/2024 15:00,Goodison Park,Everton,Crystal Palace,2 - 1
-59,6,28/09/2024 15:00,The City Ground,Nott'm Forest,Fulham,0 - 1
-60,6,28/09/2024 17:30,Molineux Stadium,Wolves,Liverpool,1 - 2
-56,6,29/09/2024 14:00,Portman Road,Ipswich,Aston Villa,2 - 2
-57,6,29/09/2024 16:30,Old Trafford,Man Utd,Spurs,0 - 3
-52,6,30/09/2024 20:00,Vitality Stadium,Bournemouth,Southampton,3 - 1
-66,7,05/10/2024 12:30,Selhurst Park,Crystal Palace,Liverpool,0 - 1
-61,7,05/10/2024 15:00,Emirates Stadium,Arsenal,Southampton,3 - 1
-63,7,05/10/2024 15:00,Gtech Community Stadium,Brentford,Wolves,5 - 3
-68,7,05/10/2024 15:00,King Power Stadium,Leicester,Bournemouth,1 - 0
-69,7,05/10/2024 15:00,Etihad Stadium,Man City,Fulham,3 - 2
-70,7,05/10/2024 15:00,London Stadium,West Ham,Ipswich,4 - 1
-67,7,05/10/2024 17:30,Goodison Park,Everton,Newcastle,0 - 0
-62,7,06/10/2024 14:00,Villa Park,Aston Villa,Man Utd,0 - 0
-65,7,06/10/2024 14:00,Stamford Bridge,Chelsea,Nott'm Forest,1 - 1
-64,7,06/10/2024 16:30,American Express Stadium,Brighton,Spurs,3 - 2
-79,8,19/10/2024 12:30,Tottenham Hotspur Stadium,Spurs,West Ham,4 - 1
-72,8,19/10/2024 15:00,Craven Cottage,Fulham,Aston Villa,1 - 3
-75,8,19/10/2024 15:00,Old Trafford,Man Utd,Brentford,2 - 1
-76,8,19/10/2024 15:00,St. James' Park,Newcastle,Brighton,0 - 1
-78,8,19/10/2024 15:00,St. Mary's Stadium,Southampton,Leicester,2 - 3
-73,8,19/10/2024 15:15,Portman Road,Ipswich,Everton,0 - 2
-71,8,19/10/2024 17:30,Vitality Stadium,Bournemouth,Arsenal,2 - 0
-80,8,20/10/2024 14:00,Molineux Stadium,Wolves,Man City,1 - 2
-74,8,20/10/2024 16:30,Anfield,Liverpool,Chelsea,2 - 1
-77,8,21/10/2024 20:00,The City Ground,Nott'm Forest,Crystal Palace,1 - 0
-88,9,25/10/2024 20:00,King Power Stadium,Leicester,Nott'm Forest,1 - 3
-82,9,26/10/2024 15:00,Villa Park,Aston Villa,Bournemouth,1 - 1
-83,9,26/10/2024 15:00,Gtech Community Stadium,Brentford,Ipswich,4 - 3
-84,9,26/10/2024 15:00,American Express Stadium,Brighton,Wolves,2 - 2
-89,9,26/10/2024 15:00,Etihad Stadium,Man City,Southampton,1 - 0
-87,9,26/10/2024 17:30,Goodison Park,Everton,Fulham,1 - 1
-85,9,27/10/2024 14:00,Stamford Bridge,Chelsea,Newcastle,2 - 1
-86,9,27/10/2024 14:00,Selhurst Park,Crystal Palace,Spurs,1 - 0
-90,9,27/10/2024 14:00,London Stadium,West Ham,Man Utd,2 - 1
-81,9,27/10/2024 16:30,Emirates Stadium,Arsenal,Liverpool,2 - 2
-96,10,02/11/2024 12:30,St. James' Park,Newcastle,Arsenal,1 - 0
-91,10,02/11/2024 15:00,Vitality Stadium,Bournemouth,Man City,2 - 1
-93,10,02/11/2024 15:00,Portman Road,Ipswich,Leicester,1 - 1
-94,10,02/11/2024 15:00,Anfield,Liverpool,Brighton,2 - 1
-97,10,02/11/2024 15:00,The City Ground,Nott'm Forest,West Ham,3 - 0
-98,10,02/11/2024 15:00,St. Mary's Stadium,Southampton,Everton,1 - 0
-100,10,02/11/2024 17:30,Molineux Stadium,Wolves,Crystal Palace,2 - 2
-99,10,03/11/2024 14:00,Tottenham Hotspur Stadium,Spurs,Aston Villa,4 - 1
-95,10,03/11/2024 16:30,Old Trafford,Man Utd,Chelsea,1 - 1
-92,10,04/11/2024 20:00,Craven Cottage,Fulham,Brentford,2 - 1
-101,11,09/11/2024 15:00,Gtech Community Stadium,Brentford,Bournemouth,3 - 2
-104,11,09/11/2024 15:00,Selhurst Park,Crystal Palace,Fulham,0 - 2
-109,11,09/11/2024 15:00,London Stadium,West Ham,Everton,0 - 0
-110,11,09/11/2024 15:00,Molineux Stadium,Wolves,Southampton,2 - 0
-102,11,09/11/2024 17:30,American Express Stadium,Brighton,Man City,2 - 1
-105,11,09/11/2024 20:00,Anfield,Liverpool,Aston Villa,2 - 0
-106,11,10/11/2024 14:00,Old Trafford,Man Utd,Leicester,3 - 0
-107,11,10/11/2024 14:00,The City Ground,Nott'm Forest,Newcastle,1 - 3
-108,11,10/11/2024 14:00,Tottenham Hotspur Stadium,Spurs,Ipswich,1 - 2
-103,11,10/11/2024 16:30,Stamford Bridge,Chelsea,Arsenal,1 - 1
-117,12,23/11/2024 12:30,King Power Stadium,Leicester,Chelsea,1 - 2
-111,12,23/11/2024 15:00,Emirates Stadium,Arsenal,Nott'm Forest,3 - 0
-112,12,23/11/2024 15:00,Villa Park,Aston Villa,Crystal Palace,2 - 2
-113,12,23/11/2024 15:00,Vitality Stadium,Bournemouth,Brighton,1 - 2
-114,12,23/11/2024 15:00,Goodison Park,Everton,Brentford,0 - 0
-115,12,23/11/2024 15:00,Craven Cottage,Fulham,Wolves,1 - 4
-118,12,23/11/2024 17:30,Etihad Stadium,Man City,Spurs,0 - 4
-120,12,24/11/2024 14:00,St. Mary's Stadium,Southampton,Liverpool,2 - 3
-116,12,24/11/2024 16:30,Portman Road,Ipswich,Man Utd,1 - 1
-119,12,25/11/2024 20:00,St. James' Park,Newcastle,West Ham,0 - 2
-122,13,29/11/2024 20:00,American Express Stadium,Brighton,Southampton,1 - 1
-121,13,30/11/2024 15:00,Gtech Community Stadium,Brentford,Leicester,4 - 1
-124,13,30/11/2024 15:00,Selhurst Park,Crystal Palace,Newcastle,1 - 1
-127,13,30/11/2024 15:00,The City Ground,Nott'm Forest,Ipswich,1 - 0
-130,13,30/11/2024 15:00,Molineux Stadium,Wolves,Bournemouth,2 - 4
-129,13,30/11/2024 17:30,London Stadium,West Ham,Arsenal,2 - 5
-123,13,01/12/2024 13:30,Stamford Bridge,Chelsea,Aston Villa,3 - 0
-126,13,01/12/2024 13:30,Old Trafford,Man Utd,Everton,4 - 0
-128,13,01/12/2024 13:30,Tottenham Hotspur Stadium,Spurs,Fulham,1 - 1
-125,13,01/12/2024 16:00,Anfield,Liverpool,Man City,2 - 0
-136,14,03/12/2024 19:30,Portman Road,Ipswich,Crystal Palace,0 - 1
-137,14,03/12/2024 20:15,King Power Stadium,Leicester,West Ham,3 - 1
-134,14,04/12/2024 19:30,Goodison Park,Everton,Wolves,4 - 0
-138,14,04/12/2024 19:30,Etihad Stadium,Man City,Nott'm Forest,3 - 0
-139,14,04/12/2024 19:30,St. James' Park,Newcastle,Liverpool,3 - 3
-140,14,04/12/2024 19:30,St. Mary's Stadium,Southampton,Chelsea,1 - 5
-131,14,04/12/2024 20:15,Emirates Stadium,Arsenal,Man Utd,2 - 0
-132,14,04/12/2024 20:15,Villa Park,Aston Villa,Brentford,3 - 1
-135,14,05/12/2024 19:30,Craven Cottage,Fulham,Brighton,3 - 1
-133,14,05/12/2024 20:15,Vitality Stadium,Bournemouth,Spurs,1 - 0
-144,15,07/12/2024 12:30,Goodison Park,Everton,Liverpool,
-141,15,07/12/2024 15:00,Villa Park,Aston Villa,Southampton,1 - 0
-142,15,07/12/2024 15:00,Gtech Community Stadium,Brentford,Newcastle,4 - 2
-143,15,07/12/2024 15:00,Selhurst Park,Crystal Palace,Man City,2 - 2
-148,15,07/12/2024 17:30,Old Trafford,Man Utd,Nott'm Forest,2 - 3
-145,15,08/12/2024 14:00,Craven Cottage,Fulham,Arsenal,1 - 1
-146,15,08/12/2024 14:00,Portman Road,Ipswich,Bournemouth,1 - 2
-147,15,08/12/2024 14:00,King Power Stadium,Leicester,Brighton,2 - 2
-149,15,08/12/2024 16:30,Tottenham Hotspur Stadium,Spurs,Chelsea,3 - 4
-150,15,09/12/2024 20:00,London Stadium,West Ham,Wolves,2 - 1
-151,16,14/12/2024 15:00,Emirates Stadium,Arsenal,Everton,
-155,16,14/12/2024 15:00,Anfield,Liverpool,Fulham,
-157,16,14/12/2024 15:00,St. James' Park,Newcastle,Leicester,
-160,16,14/12/2024 15:00,Molineux Stadium,Wolves,Ipswich,
-158,16,14/12/2024 17:30,The City Ground,Nott'm Forest,Aston Villa,
-153,16,15/12/2024 14:00,American Express Stadium,Brighton,Crystal Palace,
-156,16,15/12/2024 16:30,Etihad Stadium,Man City,Man Utd,
-154,16,15/12/2024 19:00,Stamford Bridge,Chelsea,Brentford,
-159,16,15/12/2024 19:00,St. Mary's Stadium,Southampton,Spurs,
-152,16,16/12/2024 20:00,Vitality Stadium,Bournemouth,West Ham,
-161,17,21/12/2024 12:30,Villa Park,Aston Villa,Man City,
-162,17,21/12/2024 15:00,Gtech Community Stadium,Brentford,Nott'm Forest,
-166,17,21/12/2024 15:00,Portman Road,Ipswich,Newcastle,
-170,17,21/12/2024 15:00,London Stadium,West Ham,Brighton,
-163,17,21/12/2024 17:30,Selhurst Park,Crystal Palace,Arsenal,
-164,17,22/12/2024 14:00,Goodison Park,Everton,Chelsea,
-165,17,22/12/2024 14:00,Craven Cottage,Fulham,Southampton,
-167,17,22/12/2024 14:00,King Power Stadium,Leicester,Wolves,
-168,17,22/12/2024 14:00,Old Trafford,Man Utd,Bournemouth,
-169,17,22/12/2024 16:30,Tottenham Hotspur Stadium,Spurs,Liverpool,
-176,18,26/12/2024 12:30,Etihad Stadium,Man City,Everton,
-172,18,26/12/2024 15:00,Vitality Stadium,Bournemouth,Crystal Palace,
-174,18,26/12/2024 15:00,Stamford Bridge,Chelsea,Fulham,
-177,18,26/12/2024 15:00,St. James' Park,Newcastle,Aston Villa,
-178,18,26/12/2024 15:00,The City Ground,Nott'm Forest,Spurs,
-179,18,26/12/2024 15:00,St. Mary's Stadium,Southampton,West Ham,
-180,18,26/12/2024 17:30,Molineux Stadium,Wolves,Man Utd,
-175,18,26/12/2024 20:00,Anfield,Liverpool,Leicester,
-173,18,27/12/2024 19:30,American Express Stadium,Brighton,Brentford,
-171,18,27/12/2024 20:15,Emirates Stadium,Arsenal,Ipswich,
-187,19,29/12/2024 14:30,King Power Stadium,Leicester,Man City,
-183,19,29/12/2024 15:00,Selhurst Park,Crystal Palace,Southampton,
-184,19,29/12/2024 15:00,Goodison Park,Everton,Nott'm Forest,
-185,19,29/12/2024 15:00,Craven Cottage,Fulham,Bournemouth,
-189,19,29/12/2024 15:00,Tottenham Hotspur Stadium,Spurs,Wolves,
-190,19,29/12/2024 17:15,London Stadium,West Ham,Liverpool,
-181,19,30/12/2024 19:45,Villa Park,Aston Villa,Brighton,
-186,19,30/12/2024 19:45,Portman Road,Ipswich,Chelsea,
-188,19,30/12/2024 20:00,Old Trafford,Man Utd,Newcastle,
-182,19,01/01/2025 17:30,Gtech Community Stadium,Brentford,Arsenal,
-199,20,04/01/2025 12:30,Tottenham Hotspur Stadium,Spurs,Newcastle,
-191,20,04/01/2025 15:00,Villa Park,Aston Villa,Leicester,
-192,20,04/01/2025 15:00,Vitality Stadium,Bournemouth,Everton,
-194,20,04/01/2025 15:00,Selhurst Park,Crystal Palace,Chelsea,
-197,20,04/01/2025 15:00,Etihad Stadium,Man City,West Ham,
-198,20,04/01/2025 15:00,St. Mary's Stadium,Southampton,Brentford,
-193,20,04/01/2025 17:30,American Express Stadium,Brighton,Arsenal,
-195,20,05/01/2025 14:00,Craven Cottage,Fulham,Ipswich,
-196,20,05/01/2025 16:30,Anfield,Liverpool,Man Utd,
-200,20,06/01/2025 20:00,Molineux Stadium,Wolves,Nott'm Forest,
-202,21,14/01/2025 19:30,Gtech Community Stadium,Brentford,Man City,
-207,21,14/01/2025 19:30,London Stadium,West Ham,Fulham,
-208,21,14/01/2025 19:30,Stamford Bridge,Chelsea,Bournemouth,
-206,21,14/01/2025 20:00,The City Ground,Nott'm Forest,Liverpool,
-203,21,15/01/2025 19:30,Goodison Park,Everton,Aston Villa,
-205,21,15/01/2025 19:30,King Power Stadium,Leicester,Crystal Palace,
-209,21,15/01/2025 19:30,St. James' Park,Newcastle,Wolves,
-201,21,15/01/2025 20:00,Emirates Stadium,Arsenal,Spurs,
-204,21,16/01/2025 19:30,Portman Road,Ipswich,Brighton,
-210,21,16/01/2025 20:00,Old Trafford,Man Utd,Southampton,
-218,22,18/01/2025 12:30,St. James' Park,Newcastle,Bournemouth,
-212,22,18/01/2025 15:00,Gtech Community Stadium,Brentford,Liverpool,
-216,22,18/01/2025 15:00,King Power Stadium,Leicester,Fulham,
-220,22,18/01/2025 15:00,London Stadium,West Ham,Crystal Palace,
-211,22,18/01/2025 17:30,Emirates Stadium,Arsenal,Aston Villa,
-214,22,19/01/2025 14:00,Goodison Park,Everton,Spurs,
-217,22,19/01/2025 14:00,Old Trafford,Man Utd,Brighton,
-219,22,19/01/2025 14:00,The City Ground,Nott'm Forest,Southampton,
-215,22,19/01/2025 16:30,Portman Road,Ipswich,Man City,
-213,22,20/01/2025 20:00,Stamford Bridge,Chelsea,Wolves,
-222,23,25/01/2025 15:00,Vitality Stadium,Bournemouth,Nott'm Forest,
-223,23,25/01/2025 15:00,American Express Stadium,Brighton,Everton,
-226,23,25/01/2025 15:00,Anfield,Liverpool,Ipswich,
-228,23,25/01/2025 15:00,St. Mary's Stadium,Southampton,Newcastle,
-230,23,25/01/2025 15:00,Molineux Stadium,Wolves,Arsenal,
-227,23,25/01/2025 17:30,Etihad Stadium,Man City,Chelsea,
-224,23,26/01/2025 14:00,Selhurst Park,Crystal Palace,Brentford,
-229,23,26/01/2025 14:00,Tottenham Hotspur Stadium,Spurs,Leicester,
-221,23,26/01/2025 16:30,Villa Park,Aston Villa,West Ham,
-225,23,26/01/2025 19:00,Craven Cottage,Fulham,Man Utd,
-231,24,01/02/2025 15:00,Emirates Stadium,Arsenal,Man City,
-232,24,01/02/2025 15:00,Vitality Stadium,Bournemouth,Liverpool,
-233,24,01/02/2025 15:00,Gtech Community Stadium,Brentford,Spurs,
-234,24,01/02/2025 15:00,Stamford Bridge,Chelsea,West Ham,
-235,24,01/02/2025 15:00,Goodison Park,Everton,Leicester,
-236,24,01/02/2025 15:00,Portman Road,Ipswich,Southampton,
-237,24,01/02/2025 15:00,Old Trafford,Man Utd,Crystal Palace,
-238,24,01/02/2025 15:00,St. James' Park,Newcastle,Fulham,
-239,24,01/02/2025 15:00,The City Ground,Nott'm Forest,Brighton,
-240,24,01/02/2025 15:00,Molineux Stadium,Wolves,Aston Villa,
-241,25,15/02/2025 15:00,Villa Park,Aston Villa,Ipswich,
-242,25,15/02/2025 15:00,American Express Stadium,Brighton,Chelsea,
-243,25,15/02/2025 15:00,Selhurst Park,Crystal Palace,Everton,
-244,25,15/02/2025 15:00,Craven Cottage,Fulham,Nott'm Forest,
-245,25,15/02/2025 15:00,King Power Stadium,Leicester,Arsenal,
-246,25,15/02/2025 15:00,Anfield,Liverpool,Wolves,
-247,25,15/02/2025 15:00,Etihad Stadium,Man City,Newcastle,
-248,25,15/02/2025 15:00,St. Mary's Stadium,Southampton,Bournemouth,
-249,25,15/02/2025 15:00,Tottenham Hotspur Stadium,Spurs,Man Utd,
-250,25,15/02/2025 15:00,London Stadium,West Ham,Brentford,
-251,26,22/02/2025 15:00,Emirates Stadium,Arsenal,West Ham,
-252,26,22/02/2025 15:00,Villa Park,Aston Villa,Chelsea,
-253,26,22/02/2025 15:00,Vitality Stadium,Bournemouth,Wolves,
-254,26,22/02/2025 15:00,Goodison Park,Everton,Man Utd,
-255,26,22/02/2025 15:00,Craven Cottage,Fulham,Crystal Palace,
-256,26,22/02/2025 15:00,Portman Road,Ipswich,Spurs,
-257,26,22/02/2025 15:00,King Power Stadium,Leicester,Brentford,
-258,26,22/02/2025 15:00,Etihad Stadium,Man City,Liverpool,
-259,26,22/02/2025 15:00,St. James' Park,Newcastle,Nott'm Forest,
-260,26,22/02/2025 15:00,St. Mary's Stadium,Southampton,Brighton,
-261,27,25/02/2025 19:45,Gtech Community Stadium,Brentford,Everton,
-262,27,25/02/2025 19:45,American Express Stadium,Brighton,Bournemouth,
-263,27,25/02/2025 19:45,The City Ground,Nott'm Forest,Arsenal,
-264,27,25/02/2025 19:45,Tottenham Hotspur Stadium,Spurs,Man City,
-265,27,25/02/2025 19:45,London Stadium,West Ham,Leicester,
-266,27,25/02/2025 19:45,Molineux Stadium,Wolves,Fulham,
-267,27,25/02/2025 20:00,Selhurst Park,Crystal Palace,Aston Villa,
-268,27,26/02/2025 19:45,Stamford Bridge,Chelsea,Southampton,
-269,27,26/02/2025 20:00,Anfield,Liverpool,Newcastle,
-270,27,26/02/2025 20:00,Old Trafford,Man Utd,Ipswich,
-271,28,08/03/2025 15:00,Gtech Community Stadium,Brentford,Aston Villa,
-272,28,08/03/2025 15:00,American Express Stadium,Brighton,Fulham,
-273,28,08/03/2025 15:00,Stamford Bridge,Chelsea,Leicester,
-274,28,08/03/2025 15:00,Selhurst Park,Crystal Palace,Ipswich,
-275,28,08/03/2025 15:00,Anfield,Liverpool,Southampton,
-276,28,08/03/2025 15:00,Old Trafford,Man Utd,Arsenal,
-277,28,08/03/2025 15:00,The City Ground,Nott'm Forest,Man City,
-278,28,08/03/2025 15:00,Tottenham Hotspur Stadium,Spurs,Bournemouth,
-279,28,08/03/2025 15:00,London Stadium,West Ham,Newcastle,
-280,28,08/03/2025 15:00,Molineux Stadium,Wolves,Everton,
-281,29,15/03/2025 15:00,Emirates Stadium,Arsenal,Chelsea,
-282,29,15/03/2025 15:00,Villa Park,Aston Villa,Liverpool,
-283,29,15/03/2025 15:00,Vitality Stadium,Bournemouth,Brentford,
-284,29,15/03/2025 15:00,Goodison Park,Everton,West Ham,
-285,29,15/03/2025 15:00,Craven Cottage,Fulham,Spurs,
-286,29,15/03/2025 15:00,Portman Road,Ipswich,Nott'm Forest,
-287,29,15/03/2025 15:00,King Power Stadium,Leicester,Man Utd,
-288,29,15/03/2025 15:00,Etihad Stadium,Man City,Brighton,
-289,29,15/03/2025 15:00,St. James' Park,Newcastle,Crystal Palace,
-290,29,15/03/2025 15:00,St. Mary's Stadium,Southampton,Wolves,
-291,30,01/04/2025 19:45,Emirates Stadium,Arsenal,Fulham,
-292,30,01/04/2025 19:45,Vitality Stadium,Bournemouth,Ipswich,
-293,30,01/04/2025 19:45,American Express Stadium,Brighton,Aston Villa,
-294,30,01/04/2025 19:45,The City Ground,Nott'm Forest,Man Utd,
-295,30,01/04/2025 19:45,Molineux Stadium,Wolves,West Ham,
-296,30,02/04/2025 19:45,Stamford Bridge,Chelsea,Spurs,
-297,30,02/04/2025 19:45,Etihad Stadium,Man City,Leicester,
-298,30,02/04/2025 19:45,St. James' Park,Newcastle,Brentford,
-299,30,02/04/2025 19:45,St. Mary's Stadium,Southampton,Crystal Palace,
-300,30,02/04/2025 20:00,Anfield,Liverpool,Everton,
-301,31,05/04/2025 15:00,Villa Park,Aston Villa,Nott'm Forest,
-302,31,05/04/2025 15:00,Gtech Community Stadium,Brentford,Chelsea,
-303,31,05/04/2025 15:00,Selhurst Park,Crystal Palace,Brighton,
-304,31,05/04/2025 15:00,Goodison Park,Everton,Arsenal,
-305,31,05/04/2025 15:00,Craven Cottage,Fulham,Liverpool,
-306,31,05/04/2025 15:00,Portman Road,Ipswich,Wolves,
-307,31,05/04/2025 15:00,King Power Stadium,Leicester,Newcastle,
-308,31,05/04/2025 15:00,Old Trafford,Man Utd,Man City,
-309,31,05/04/2025 15:00,Tottenham Hotspur Stadium,Spurs,Southampton,
-310,31,05/04/2025 15:00,London Stadium,West Ham,Bournemouth,
-311,32,12/04/2025 15:00,Emirates Stadium,Arsenal,Brentford,
-312,32,12/04/2025 15:00,Vitality Stadium,Bournemouth,Fulham,
-313,32,12/04/2025 15:00,American Express Stadium,Brighton,Leicester,
-314,32,12/04/2025 15:00,Stamford Bridge,Chelsea,Ipswich,
-315,32,12/04/2025 15:00,Anfield,Liverpool,West Ham,
-316,32,12/04/2025 15:00,Etihad Stadium,Man City,Crystal Palace,
-317,32,12/04/2025 15:00,St. James' Park,Newcastle,Man Utd,
-318,32,12/04/2025 15:00,The City Ground,Nott'm Forest,Everton,
-319,32,12/04/2025 15:00,St. Mary's Stadium,Southampton,Aston Villa,
-320,32,12/04/2025 15:00,Molineux Stadium,Wolves,Spurs,
-321,33,19/04/2025 15:00,Villa Park,Aston Villa,Newcastle,
-322,33,19/04/2025 15:00,Gtech Community Stadium,Brentford,Brighton,
-323,33,19/04/2025 15:00,Selhurst Park,Crystal Palace,Bournemouth,
-324,33,19/04/2025 15:00,Goodison Park,Everton,Man City,
-325,33,19/04/2025 15:00,Craven Cottage,Fulham,Chelsea,
-326,33,19/04/2025 15:00,Portman Road,Ipswich,Arsenal,
-327,33,19/04/2025 15:00,King Power Stadium,Leicester,Liverpool,
-328,33,19/04/2025 15:00,Old Trafford,Man Utd,Wolves,
-329,33,19/04/2025 15:00,Tottenham Hotspur Stadium,Spurs,Nott'm Forest,
-330,33,19/04/2025 15:00,London Stadium,West Ham,Southampton,
-331,34,26/04/2025 15:00,Emirates Stadium,Arsenal,Crystal Palace,
-332,34,26/04/2025 15:00,Vitality Stadium,Bournemouth,Man Utd,
-333,34,26/04/2025 15:00,American Express Stadium,Brighton,West Ham,
-334,34,26/04/2025 15:00,Stamford Bridge,Chelsea,Everton,
-335,34,26/04/2025 15:00,Anfield,Liverpool,Spurs,
-336,34,26/04/2025 15:00,Etihad Stadium,Man City,Aston Villa,
-337,34,26/04/2025 15:00,St. James' Park,Newcastle,Ipswich,
-338,34,26/04/2025 15:00,The City Ground,Nott'm Forest,Brentford,
-339,34,26/04/2025 15:00,St. Mary's Stadium,Southampton,Fulham,
-340,34,26/04/2025 15:00,Molineux Stadium,Wolves,Leicester,
-341,35,03/05/2025 15:00,Emirates Stadium,Arsenal,Bournemouth,
-342,35,03/05/2025 15:00,Villa Park,Aston Villa,Fulham,
-343,35,03/05/2025 15:00,Gtech Community Stadium,Brentford,Man Utd,
-344,35,03/05/2025 15:00,American Express Stadium,Brighton,Newcastle,
-345,35,03/05/2025 15:00,Stamford Bridge,Chelsea,Liverpool,
-346,35,03/05/2025 15:00,Selhurst Park,Crystal Palace,Nott'm Forest,
-347,35,03/05/2025 15:00,Goodison Park,Everton,Ipswich,
-348,35,03/05/2025 15:00,King Power Stadium,Leicester,Southampton,
-349,35,03/05/2025 15:00,Etihad Stadium,Man City,Wolves,
-350,35,03/05/2025 15:00,London Stadium,West Ham,Spurs,
-351,36,10/05/2025 15:00,Vitality Stadium,Bournemouth,Aston Villa,
-352,36,10/05/2025 15:00,Craven Cottage,Fulham,Everton,
-353,36,10/05/2025 15:00,Portman Road,Ipswich,Brentford,
-354,36,10/05/2025 15:00,Anfield,Liverpool,Arsenal,
-355,36,10/05/2025 15:00,Old Trafford,Man Utd,West Ham,
-356,36,10/05/2025 15:00,St. James' Park,Newcastle,Chelsea,
-357,36,10/05/2025 15:00,The City Ground,Nott'm Forest,Leicester,
-358,36,10/05/2025 15:00,St. Mary's Stadium,Southampton,Man City,
-359,36,10/05/2025 15:00,Tottenham Hotspur Stadium,Spurs,Crystal Palace,
-360,36,10/05/2025 15:00,Molineux Stadium,Wolves,Brighton,
-361,37,18/05/2025 15:00,Emirates Stadium,Arsenal,Newcastle,
-362,37,18/05/2025 15:00,Villa Park,Aston Villa,Spurs,
-363,37,18/05/2025 15:00,Gtech Community Stadium,Brentford,Fulham,
-364,37,18/05/2025 15:00,American Express Stadium,Brighton,Liverpool,
-365,37,18/05/2025 15:00,Stamford Bridge,Chelsea,Man Utd,
-366,37,18/05/2025 15:00,Selhurst Park,Crystal Palace,Wolves,
-367,37,18/05/2025 15:00,Goodison Park,Everton,Southampton,
-368,37,18/05/2025 15:00,King Power Stadium,Leicester,Ipswich,
-369,37,18/05/2025 15:00,Etihad Stadium,Man City,Bournemouth,
-370,37,18/05/2025 15:00,London Stadium,West Ham,Nott'm Forest,
-371,38,25/05/2025 16:00,Vitality Stadium,Bournemouth,Leicester,
-372,38,25/05/2025 16:00,Craven Cottage,Fulham,Man City,
-373,38,25/05/2025 16:00,Portman Road,Ipswich,West Ham,
-374,38,25/05/2025 16:00,Anfield,Liverpool,Crystal Palace,
-375,38,25/05/2025 16:00,Old Trafford,Man Utd,Aston Villa,
-376,38,25/05/2025 16:00,St. James' Park,Newcastle,Everton,
-377,38,25/05/2025 16:00,The City Ground,Nott'm Forest,Chelsea,
-378,38,25/05/2025 16:00,St. Mary's Stadium,Southampton,Arsenal,
-379,38,25/05/2025 16:00,Tottenham Hotspur Stadium,Spurs,Brighton,
-380,38,25/05/2025 16:00,Molineux Stadium,Wolves,Brentford,
+Round Number,Home Team,Away Team
+1,Man Utd,Fulham
+1,Ipswich,Liverpool
+1,Arsenal,Wolves
+1,Everton,Brighton
+1,Newcastle,Southampton
+1,Nott'm Forest,Bournemouth
+1,West Ham,Aston Villa
+1,Brentford,Crystal Palace
+1,Chelsea,Man City
+1,Leicester,Spurs
+2,Brighton,Man Utd
+2,Crystal Palace,West Ham
+2,Fulham,Leicester
+2,Man City,Ipswich
+2,Southampton,Nott'm Forest
+2,Spurs,Everton
+2,Aston Villa,Arsenal
+2,Bournemouth,Newcastle
+2,Wolves,Chelsea
+2,Liverpool,Brentford
+3,Arsenal,Brighton
+3,Brentford,Southampton
+3,Everton,Bournemouth
+3,Ipswich,Fulham
+3,Leicester,Aston Villa
+3,Nott'm Forest,Wolves
+3,West Ham,Man City
+3,Chelsea,Crystal Palace
+3,Newcastle,Spurs
+3,Man Utd,Liverpool
+4,Southampton,Man Utd
+4,Brighton,Ipswich
+4,Crystal Palace,Leicester
+4,Fulham,West Ham
+4,Liverpool,Nott'm Forest
+4,Man City,Brentford
+4,Aston Villa,Everton
+4,Bournemouth,Chelsea
+4,Spurs,Arsenal
+4,Wolves,Newcastle
+5,West Ham,Chelsea
+5,Aston Villa,Wolves
+5,Fulham,Newcastle
+5,Leicester,Everton
+5,Liverpool,Bournemouth
+5,Southampton,Ipswich
+5,Spurs,Brentford
+5,Crystal Palace,Man Utd
+5,Brighton,Nott'm Forest
+5,Man City,Arsenal
+6,Newcastle,Man City
+6,Arsenal,Leicester
+6,Brentford,West Ham
+6,Chelsea,Brighton
+6,Everton,Crystal Palace
+6,Nott'm Forest,Fulham
+6,Wolves,Liverpool
+6,Ipswich,Aston Villa
+6,Man Utd,Spurs
+6,Bournemouth,Southampton
+7,Crystal Palace,Liverpool
+7,Arsenal,Southampton
+7,Brentford,Wolves
+7,Leicester,Bournemouth
+7,Man City,Fulham
+7,West Ham,Ipswich
+7,Everton,Newcastle
+7,Aston Villa,Man Utd
+7,Chelsea,Nott'm Forest
+7,Brighton,Spurs
+8,Spurs,West Ham
+8,Fulham,Aston Villa
+8,Man Utd,Brentford
+8,Newcastle,Brighton
+8,Southampton,Leicester
+8,Ipswich,Everton
+8,Bournemouth,Arsenal
+8,Wolves,Man City
+8,Liverpool,Chelsea
+8,Nott'm Forest,Crystal Palace
+9,Leicester,Nott'm Forest
+9,Aston Villa,Bournemouth
+9,Brentford,Ipswich
+9,Brighton,Wolves
+9,Man City,Southampton
+9,Everton,Fulham
+9,Chelsea,Newcastle
+9,Crystal Palace,Spurs
+9,West Ham,Man Utd
+9,Arsenal,Liverpool
+10,Newcastle,Arsenal
+10,Bournemouth,Man City
+10,Ipswich,Leicester
+10,Liverpool,Brighton
+10,Nott'm Forest,West Ham
+10,Southampton,Everton
+10,Wolves,Crystal Palace
+10,Spurs,Aston Villa
+10,Man Utd,Chelsea
+10,Fulham,Brentford
+11,Brentford,Bournemouth
+11,Crystal Palace,Fulham
+11,West Ham,Everton
+11,Wolves,Southampton
+11,Brighton,Man City
+11,Liverpool,Aston Villa
+11,Man Utd,Leicester
+11,Nott'm Forest,Newcastle
+11,Spurs,Ipswich
+11,Chelsea,Arsenal
+12,Leicester,Chelsea
+12,Arsenal,Nott'm Forest
+12,Aston Villa,Crystal Palace
+12,Bournemouth,Brighton
+12,Everton,Brentford
+12,Fulham,Wolves
+12,Man City,Spurs
+12,Southampton,Liverpool
+12,Ipswich,Man Utd
+12,Newcastle,West Ham
+13,Brighton,Southampton
+13,Brentford,Leicester
+13,Crystal Palace,Newcastle
+13,Nott'm Forest,Ipswich
+13,Wolves,Bournemouth
+13,West Ham,Arsenal
+13,Chelsea,Aston Villa
+13,Man Utd,Everton
+13,Spurs,Fulham
+13,Liverpool,Man City
+14,Ipswich,Crystal Palace
+14,Leicester,West Ham
+14,Everton,Wolves
+14,Man City,Nott'm Forest
+14,Newcastle,Liverpool
+14,Southampton,Chelsea
+14,Arsenal,Man Utd
+14,Aston Villa,Brentford
+14,Fulham,Brighton
+14,Bournemouth,Spurs
+15,Everton,Liverpool
+15,Aston Villa,Southampton
+15,Brentford,Newcastle
+15,Crystal Palace,Man City
+15,Man Utd,Nott'm Forest
+15,Fulham,Arsenal
+15,Ipswich,Bournemouth
+15,Leicester,Brighton
+15,Spurs,Chelsea
+15,West Ham,Wolves
+16,Arsenal,Everton
+16,Liverpool,Fulham
+16,Newcastle,Leicester
+16,Wolves,Ipswich
+16,Nott'm Forest,Aston Villa
+16,Brighton,Crystal Palace
+16,Man City,Man Utd
+16,Chelsea,Brentford
+16,Southampton,Spurs
+16,Bournemouth,West Ham
+17,Aston Villa,Man City
+17,Brentford,Nott'm Forest
+17,Ipswich,Newcastle
+17,West Ham,Brighton
+17,Crystal Palace,Arsenal
+17,Everton,Chelsea
+17,Fulham,Southampton
+17,Leicester,Wolves
+17,Man Utd,Bournemouth
+17,Spurs,Liverpool
+18,Man City,Everton
+18,Bournemouth,Crystal Palace
+18,Chelsea,Fulham
+18,Newcastle,Aston Villa
+18,Nott'm Forest,Spurs
+18,Southampton,West Ham
+18,Wolves,Man Utd
+18,Liverpool,Leicester
+18,Brighton,Brentford
+18,Arsenal,Ipswich
+19,Leicester,Man City
+19,Crystal Palace,Southampton
+19,Everton,Nott'm Forest
+19,Fulham,Bournemouth
+19,Spurs,Wolves
+19,West Ham,Liverpool
+19,Aston Villa,Brighton
+19,Ipswich,Chelsea
+19,Man Utd,Newcastle
+19,Brentford,Arsenal
+20,Spurs,Newcastle
+20,Aston Villa,Leicester
+20,Bournemouth,Everton
+20,Crystal Palace,Chelsea
+20,Man City,West Ham
+20,Southampton,Brentford
+20,Brighton,Arsenal
+20,Fulham,Ipswich
+20,Liverpool,Man Utd
+20,Wolves,Nott'm Forest
+21,Brentford,Man City
+21,West Ham,Fulham
+21,Chelsea,Bournemouth
+21,Nott'm Forest,Liverpool
+21,Everton,Aston Villa
+21,Leicester,Crystal Palace
+21,Newcastle,Wolves
+21,Arsenal,Spurs
+21,Ipswich,Brighton
+21,Man Utd,Southampton
+22,Newcastle,Bournemouth
+22,Brentford,Liverpool
+22,Leicester,Fulham
+22,West Ham,Crystal Palace
+22,Arsenal,Aston Villa
+22,Everton,Spurs
+22,Man Utd,Brighton
+22,Nott'm Forest,Southampton
+22,Ipswich,Man City
+22,Chelsea,Wolves
+23,Bournemouth,Nott'm Forest
+23,Brighton,Everton
+23,Liverpool,Ipswich
+23,Southampton,Newcastle
+23,Wolves,Arsenal
+23,Man City,Chelsea
+23,Crystal Palace,Brentford
+23,Spurs,Leicester
+23,Aston Villa,West Ham
+23,Fulham,Man Utd
+24,Arsenal,Man City
+24,Bournemouth,Liverpool
+24,Brentford,Spurs
+24,Chelsea,West Ham
+24,Everton,Leicester
+24,Ipswich,Southampton
+24,Man Utd,Crystal Palace
+24,Newcastle,Fulham
+24,Nott'm Forest,Brighton
+24,Wolves,Aston Villa
+25,Aston Villa,Ipswich
+25,Brighton,Chelsea
+25,Crystal Palace,Everton
+25,Fulham,Nott'm Forest
+25,Leicester,Arsenal
+25,Liverpool,Wolves
+25,Man City,Newcastle
+25,Southampton,Bournemouth
+25,Spurs,Man Utd
+25,West Ham,Brentford
+26,Arsenal,West Ham
+26,Aston Villa,Chelsea
+26,Bournemouth,Wolves
+26,Everton,Man Utd
+26,Fulham,Crystal Palace
+26,Ipswich,Spurs
+26,Leicester,Brentford
+26,Man City,Liverpool
+26,Newcastle,Nott'm Forest
+26,Southampton,Brighton
+27,Brentford,Everton
+27,Brighton,Bournemouth
+27,Nott'm Forest,Arsenal
+27,Spurs,Man City
+27,West Ham,Leicester
+27,Wolves,Fulham
+27,Crystal Palace,Aston Villa
+27,Chelsea,Southampton
+27,Liverpool,Newcastle
+27,Man Utd,Ipswich
+28,Brentford,Aston Villa
+28,Brighton,Fulham
+28,Chelsea,Leicester
+28,Crystal Palace,Ipswich
+28,Liverpool,Southampton
+28,Man Utd,Arsenal
+28,Nott'm Forest,Man City
+28,Spurs,Bournemouth
+28,West Ham,Newcastle
+28,Wolves,Everton
+29,Arsenal,Chelsea
+29,Aston Villa,Liverpool
+29,Bournemouth,Brentford
+29,Everton,West Ham
+29,Fulham,Spurs
+29,Ipswich,Nott'm Forest
+29,Leicester,Man Utd
+29,Man City,Brighton
+29,Newcastle,Crystal Palace
+29,Southampton,Wolves
+30,Arsenal,Fulham
+30,Bournemouth,Ipswich
+30,Brighton,Aston Villa
+30,Nott'm Forest,Man Utd
+30,Wolves,West Ham
+30,Chelsea,Spurs
+30,Man City,Leicester
+30,Newcastle,Brentford
+30,Southampton,Crystal Palace
+30,Liverpool,Everton
+31,Aston Villa,Nott'm Forest
+31,Brentford,Chelsea
+31,Crystal Palace,Brighton
+31,Everton,Arsenal
+31,Fulham,Liverpool
+31,Ipswich,Wolves
+31,Leicester,Newcastle
+31,Man Utd,Man City
+31,Spurs,Southampton
+31,West Ham,Bournemouth
+32,Arsenal,Brentford
+32,Bournemouth,Fulham
+32,Brighton,Leicester
+32,Chelsea,Ipswich
+32,Liverpool,West Ham
+32,Man City,Crystal Palace
+32,Newcastle,Man Utd
+32,Nott'm Forest,Everton
+32,Southampton,Aston Villa
+32,Wolves,Spurs
+33,Aston Villa,Newcastle
+33,Brentford,Brighton
+33,Crystal Palace,Bournemouth
+33,Everton,Man City
+33,Fulham,Chelsea
+33,Ipswich,Arsenal
+33,Leicester,Liverpool
+33,Man Utd,Wolves
+33,Spurs,Nott'm Forest
+33,West Ham,Southampton
+34,Arsenal,Crystal Palace
+34,Bournemouth,Man Utd
+34,Brighton,West Ham
+34,Chelsea,Everton
+34,Liverpool,Spurs
+34,Man City,Aston Villa
+34,Newcastle,Ipswich
+34,Nott'm Forest,Brentford
+34,Southampton,Fulham
+34,Wolves,Leicester
+35,Arsenal,Bournemouth
+35,Aston Villa,Fulham
+35,Brentford,Man Utd
+35,Brighton,Newcastle
+35,Chelsea,Liverpool
+35,Crystal Palace,Nott'm Forest
+35,Everton,Ipswich
+35,Leicester,Southampton
+35,Man City,Wolves
+35,West Ham,Spurs
+36,Bournemouth,Aston Villa
+36,Fulham,Everton
+36,Ipswich,Brentford
+36,Liverpool,Arsenal
+36,Man Utd,West Ham
+36,Newcastle,Chelsea
+36,Nott'm Forest,Leicester
+36,Southampton,Man City
+36,Spurs,Crystal Palace
+36,Wolves,Brighton
+37,Arsenal,Newcastle
+37,Aston Villa,Spurs
+37,Brentford,Fulham
+37,Brighton,Liverpool
+37,Chelsea,Man Utd
+37,Crystal Palace,Wolves
+37,Everton,Southampton
+37,Leicester,Ipswich
+37,Man City,Bournemouth
+37,West Ham,Nott'm Forest
+38,Bournemouth,Leicester
+38,Fulham,Man City
+38,Ipswich,West Ham
+38,Liverpool,Crystal Palace
+38,Man Utd,Aston Villa
+38,Newcastle,Everton
+38,Nott'm Forest,Chelsea
+38,Southampton,Arsenal
+38,Spurs,Brighton
+38,Wolves,Brentford
